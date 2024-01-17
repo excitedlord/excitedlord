@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @excitedlord
-- 👀 I’m interested in coding, developing, leading.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on machine-learning/AI prpjects.
+
 
 
 <!---
